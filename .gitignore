@@ -1,0 +1,7 @@
+venv/
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
+bac120_metadata_r214.tsv
+bac120_metadata_r226.tsv

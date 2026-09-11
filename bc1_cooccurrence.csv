@@ -1,0 +1,25 @@
+,filter,reductase,n_with_reductase,n_with_bc1,pct_with_bc1
+0,No filter,Nap,5420,3381,62.4
+1,No filter,NirK,7561,2746,36.3
+2,No filter,NirS,3062,2506,81.8
+3,No filter,cNor,9819,4932,50.2
+4,No filter,NosZ,6778,2912,43.0
+5,No filter,NarG,9516,3947,41.5
+6,Excl. fragmented,Nap,5266,3320,63.0
+7,Excl. fragmented,NirK,7204,2683,37.2
+8,Excl. fragmented,NirS,2942,2441,83.0
+9,Excl. fragmented,cNor,9459,4816,50.9
+10,Excl. fragmented,NosZ,6552,2845,43.4
+11,Excl. fragmented,NarG,9254,3861,41.7
+12,Excl. frag + med,Nap,4525,3016,66.7
+13,Excl. frag + med,NirK,5881,2366,40.2
+14,Excl. frag + med,NirS,2239,1984,88.6
+15,Excl. frag + med,cNor,7801,4211,54.0
+16,Excl. frag + med,NosZ,5363,2515,46.9
+17,Excl. frag + med,NarG,7931,3327,41.9
+18,Only complete,Nap,3771,2667,70.7
+19,Only complete,NirK,4749,2067,43.5
+20,Only complete,NirS,1657,1556,93.9
+21,Only complete,cNor,6223,3589,57.7
+22,Only complete,NosZ,4223,2176,51.5
+23,Only complete,NarG,6669,2787,41.8
